@@ -67,6 +67,3 @@ This analysis provides a snapshot of MGH’s performance across patient admissio
 - Cost data reflects a spike in expenses during the pandemic period (2020), which may not represent typical operational conditions.
 - Excel on Mac posed specific challenges, particularly with functions like 'Distinct Count' in pivot tables, which affected the interactivity of dashboard elements like admissions. Moving to a more robust data visualization tool like Tableau would've streamlined this process.
 
-## General Info
-
-- For more about my projects and data journey, visit my [Portfolio](https://ruizdelcarmen.me/).
